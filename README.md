@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+My name is Angela and I am a contractor at NOAA's Southwest Fisheries Science Center. I am also a Dr. Nancy Foster Scholar and a PhD candidate at Scripps Institution of Oceanography.
+
+My research focuses on the behavioral ecology of baleen whales and predator-prey interactions in the California Current Ecosystem. I am interested in how environmental and climate change may influence migration and behavior, and the multiplicative stressor of anthropogenic impacts. I primarily use biologging and passive acoustic monitoring to assess whale movement and behavior. I am also interested in spatial relationships between predators and prey and the impact of predation on commercially important species. I use active acoustics, trawls, and seabird and cetacean survey data to assess the strength of relationships and estimate consumption rates.
+
+- 👯 I’m looking to collaborate on anything marine mammal related! 
+- 📫 You can find my contact info [here](https://www.fisheries.noaa.gov/contact/angela-szesciorka).
+- 😄 Pronouns: She/Her/Hers
+
+
 <!--
 **azorka/azorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on anything marine mammal related! 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can find my contact info here.
+- 😄 Pronouns: She/Her/Hers
+- 
 -->
