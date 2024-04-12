@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a researcher studying the impact of decreasing sea ice on bowhead whale migration and the increasing overlap between whales and vessels in the Bering-Chukchi region. I am also a postdoctoral researcher at [Pacific Northwest National Laboratory](https://www.pnnl.gov) evaluating technologies for detecting marine mammals around offshore wind construction activities.
+I am currently a researcher studying the impact of decreasing sea ice on bowhead whale migration and the increasing overlap between whales and vessels in the Bering-Chukchi region. I am also a postdoctoral researcher at [Pacific Northwest National Laboratory](https://www.pnnl.gov) evaluating technologies for detecting marine mammals around offshore wind construction activities.
  
 I earned my PhD as a [Dr. Nancy Foster Scholar](https://fosterscholars.noaa.gov/) from [Scripps Institution of Oceanography](https://scripps.ucsd.edu/). I use a variety of tools — including animal-mounted tags and seafloor hydrophones — to study baleen whale migration and ecology, and the threats they face in a human- and climate-impacted ecosystem. My research spans the sub-Arctic to the Arctic and mainly focuses on bowhead, blue, and humpback whales.
 
